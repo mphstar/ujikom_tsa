@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+# TSA | Uji Kom
 
-<body>
+Nama : Bintang Malindo Eka Putra
 
-    <h1># TSA | Uji KOM</h1>
-    <tr>
-        <td>Nama</td>
-        <td>=</td>
-        <td>Bintang Malindo Eka Putra</td>
-    </tr>
-    <tr>
-        <td>NIM</td>
-        <td>=</td>
-        <td>E41210618</td>
-    </tr>
+NIM : E41210618
 
-</body>
+Kelas : B
 
-</html>
+# Screenshoot
