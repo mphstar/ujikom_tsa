@@ -415,10 +415,10 @@ class HomeView extends GetView<HomeController> {
                                                           ),
                                                           TextButton(
                                                             onPressed: () {
+                                                              Get.back();
                                                               controller.deleteItem(
                                                                   currentItem[
                                                                       'key']);
-                                                              Get.back();
                                                             },
                                                             child: Text('OK'),
                                                           ),
